@@ -1,37 +1,29 @@
-# Programming vs Programming Language
+# Why Programming Languages Exist
 
-## What Is Programming?
+## Why Does a Computer Need Instructions?
 
-Giving instructions to a computer to perform specific tasks and to solve problems.
+A computer needs instructions to know what task to perform and how to perform it.
 
-## What Is a Programming Language?
+## Why Can We Not Build Applications Using Normal Human Language?
 
-A programming language is a language used to communicate instructions to a computer.
+Computers cannot directly understand normal human language because it can have different meanings and is not structured for computers to execute.
 
-## What Is Python?
+## What Problem Do Programming Languages Solve?
 
-Python is a popular programming language used to create applications, automate tasks and work with data.
+They help us communicate instructions to computers in a structured way that can be translated into machine language.
 
-## What Is Syntax?
+## Why Is Machine Language Difficult for Humans?
 
-Syntax is the set of rules we follow while writing code in a programming language
+Machine language uses 0s and 1s, which are difficult for humans to read, write and understand.
 
-## Programming and Python
+## How Does Python Help?
 
-Programming is the process of solving problems using instructions, and Python is one of the languages used to write those instructions.
-
-## What Remained the Same?
-
-The basic logic and steps used to solve a problem remained the same.
-
-## What Changed?
-
-The way we write instructions changed based on the programming language and its syntax.
+Python allows us to write instructions in a structured and readable way, which are then converted into a form the computer can understand.
 
 ## My Final Understanding
 
-Programming helps me: think logically and break a problem down into clear, step-by-step instructions.
+A programming language acts as a bridge between: Humans and computers.
 
-Python helps me: write those steps in simple, readable code that a computer can understand and run.
+Python allows a developer to: Write programs and give instructions to a computer.
 
-Syntax tells me: the exact rules and symbols I must use so my code works without any errors.
+A computer follows: Instructions converted into machine-understandable form.
